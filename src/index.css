@@ -13,7 +13,7 @@ body{
 }
 
 .note {
-  background-color: #fef68a;
+  /* background-color: #fef68a; */
   min-height: 170px;
   padding: 1rem;
   border-radius: 10px;
